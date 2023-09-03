@@ -1,4 +1,4 @@
-# Binary Searc Tree Ödevi
+# Binary Search Tree Ödevi
 
 ## Ödev
 
